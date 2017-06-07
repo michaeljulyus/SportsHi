@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Sports Hi!</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_tag">Tag Friend</string>
+    <string name="action_location">Add Location</string>
+    <string name="action_category">Add Sport</string>
+    <string name="action_image">Add Image</string>
+    <string name="action_post">Post</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_forget_password">Forget Password</string>
+    <string name="title_change_password">Change Password</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_about_activity">About</string>
+
+    <string name="empty">Not available</string>
+    <string name="menu_about">About</string>
+    <string name="msg_app_version">App Version: 1.0</string>
+    <string name="msg_copyright">© 2017 Sports Hi, Inc. All rights reserved.</string>
+    <string name="msg_about_description">Sports Hi! is an social network application that can be used to invite people to do sports activities regularly and help users to find friends in doing sports activities, and connect them so that the sports activities become fun and not boring.</string>
+    <string name="msg_about_website">Website</string>
+    <string name="msg_about_website_url">www.sportshi.com</string>
+    <string name="msg_android_trademark">Android is a trademark of Google Inc.</string>
+    <string name="desc_about_app">About this app</string>
+    <string name="license">Developed by</string>
+    <string name="msg_license_1">Michael Julyus Christopher Manullang</string>
+    <string name="msg_license_2">M. Arif Widiyatmiko</string>
+    <string name="msg_license_3">Lilis Gumilang Asri</string>
+    <string name="msg_license_4">Widyah</string>
+    <string name="title_activity_main">Sports Hi!</string>
+    <string name="title_activity_moment">Add Moment</string>
+    <string name="title_activity_tag_friend">Tag Friend</string>
+    <string name="title_activity_category">Add Sport</string>
+    <string name="title_activity_event">Create Event</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_followers">Followers</string>
+    <string name="nav_following">Following</string>
+    <string name="nav_invites">Invites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Notifications</item>
+        <item>Following</item>
+        <item>Followers</item>
+        <item>Invites</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
